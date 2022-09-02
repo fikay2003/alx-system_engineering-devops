@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod go=r hello.txt
+chmod -x hello
